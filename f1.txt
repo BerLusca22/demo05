@@ -1,0 +1,2 @@
+strimg 1
+string 2
