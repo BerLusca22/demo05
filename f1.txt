@@ -3,16 +3,4 @@ string 2
 string 3
 string 4
 
-fjnljhlhj
-d;kl;gknkn
-,flflflf;,lvb,
 
-sdfbgg
-dsfdf
-sdftyujklk,jmnhbgfvdcs
-
-<<<<<<< HEAD
-ddddd
-=======
-gfdhhhghghghghhghhhhhhhhhhhhhhhhhhhhhhhh
->>>>>>> feature
