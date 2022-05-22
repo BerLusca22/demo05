@@ -3,21 +3,8 @@ string 2
 string 3
 string 4
 
-fjnljhlhj
-d;kl;gknkn
-,flflflf;,lvb,
-
-sdfbgg
-dsfdf
-sdftyujklk,jmnhbgfvdcs
-
-<<<<<<< HEAD
-ddddd
-=======
-gfdhhhghghghghhghhhhhhhhhhhhhhhhhhhhhhhh
->>>>>>> feature
-
 string 5
 string 6
 string 7
 string 8
+
