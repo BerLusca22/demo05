@@ -11,4 +11,8 @@ sdfbgg
 dsfdf
 sdftyujklk,jmnhbgfvdcs
 
+<<<<<<< HEAD
 ddddd
+=======
+gfdhhhghghghghhghhhhhhhhhhhhhhhhhhhhhhhh
+>>>>>>> feature
